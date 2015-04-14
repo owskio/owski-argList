@@ -1,5 +1,5 @@
 {
-  "name": "owski-meta",
+  "name": "owski-argList",
   "version": "0.0.1",
   "description": "reflection for functions",
   "main": "argList.js",
