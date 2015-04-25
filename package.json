@@ -12,12 +12,13 @@
     "matching"
   ],
   "repository": {
-    "type":"git",
-    "url":"git://github.com/theodorecackowski/owski-argList.git"
+    "type": "git",
+    "url": "git://github.com/theodorecackowski/owski-argList.git"
   },
   "author": "Ted Cackowski Jr",
   "license": "MIT",
   "dependencies": {
+    "mocha": "^2.2.4",
     "must": "^0.12.0"
   }
 }
