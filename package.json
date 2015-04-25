@@ -1,8 +1,8 @@
 {
-  "name": "owski-argList",
-  "version": "0.0.1",
+  "name": "owski-arglist",
+  "version": "0.0.6",
   "description": "reflection for functions",
-  "main": "argList.js",
+  "main": "arglist.js",
   "scripts": {
     "test": "mocha tests/*.mocha.js"
   },
@@ -11,6 +11,13 @@
     "pattern",
     "matching"
   ],
+  "repository": {
+    "type":"git",
+    "url":"git://github.com/theodorecackowski/owski-argList.git"
+  },
   "author": "Ted Cackowski Jr",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "must": "^0.12.0"
+  }
 }
